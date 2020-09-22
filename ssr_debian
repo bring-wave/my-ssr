@@ -49,6 +49,7 @@ do_start(){
 		fi
 	fi
 }
+
 do_stop(){
 	check_running
 	if [[ $? -eq 0 ]]; then
