@@ -79,7 +79,6 @@ do_restart(){
 	do_stop
 	do_start
 }
-
 case "$1" in
 	start|stop|restart|status)
 	do_$1
