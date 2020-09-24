@@ -1,8 +1,5 @@
-aaaaa
-bbbb
-cccc
-dddd
+# ssr管理脚本
+ssr_centos   ssr_debian
 
-eeee
-eeee
-a
+# many-user.zip
+ssr 服务端
