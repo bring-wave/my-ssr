@@ -1,5 +1,7 @@
 # ssr管理脚本
-ssr_centos   ssr_debian
+ssr_centos  
+ssr_debian
 
-# many-user.zip
-ssr 服务端
+# ssr 服务端
+many-user.zip
+
